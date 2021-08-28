@@ -23,7 +23,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -84,18 +83,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Discord: **PurpleLotus 🦋#0001**
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Discord Server: soon
+
+Project Link: [click here for the link](https://github.com/nightlxight/discord-bots)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
