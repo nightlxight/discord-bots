@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Discord: **PurpleLotus 🦋#0001**
 
-Discord Server: soon
+Discord Server: *in the future*
 
 Project Link: [click here for the link](https://github.com/nightlxight/discord-bots)
 
