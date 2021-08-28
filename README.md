@@ -74,13 +74,12 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Install NPM packages
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   npm install discord.js
    ```
-2. Install NPM packages
    ```sh
-   npm install
+   npm install @discordjs/builders @discordjs/rest discord-api-types
    ```
 
 
