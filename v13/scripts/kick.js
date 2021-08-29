@@ -11,3 +11,6 @@ module.exports = {
 		return interaction.reply({ content: `You kicked: ${member.user}`, ephemeral: true });
 	},
 };
+
+// MAKE SURE YOU RUN THE DEPLOY SCRIPT EVERYTIME YOU ADD A COMMAND
+// For example, node deploy-commands.js
