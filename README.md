@@ -1,7 +1,7 @@
   <h1 align="center">Discord Bots</h1>
 
   <p align="center">
-    🤖 To help you to make your discord bots :)e
+    🤖 To help you to make your discord bots :)
     <br />
     <br />
     <br />
