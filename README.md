@@ -1,13 +1,13 @@
   <h1 align="center">Discord Bots</h1>
 
   <p align="center">
-    To help you to make your discord bots :)
+    🤖 To help you to make your discord bots :)
     <br />
     <br />
     <br />
-    <a href="https://github.com/nightlxight/discord-bots/issues">Report Bug</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/nightlxight/discord-bots/issues">Request Feature</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Request Feature</a>
   </p>
 </p>
 
