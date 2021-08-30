@@ -13,7 +13,7 @@
   </p>
 </p>
 
-
+![Discord.js](discord_js.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
