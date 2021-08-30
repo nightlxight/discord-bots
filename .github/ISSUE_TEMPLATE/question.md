@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a (simple) question about Whoogle
+about: Ask a question
 title: "[QUESTION] <question here>"
 labels: question
 assignees: ''
