@@ -1,5 +1,4 @@
-const { MessageEmbed } = require('discord.js');
-const { red, green, purple, random_color, cyan, lightcyan, aqua, pink, orange, yellow } = require('./colors.json');
+const { MessageEmbed } = require('discord.js'); const { red, green, purple, random_color, cyan, lightcyan, aqua, pink, orange, yellow } = require('./colors.json');
 const embed = new MessageEmbed()
     .setColor(random_color) // red, green, purple, random_color, cyan, lightcyan, aqua, pink, orange, yellow or other HTML colors like #00FFFF.
     .setTitle('') //set title
