@@ -13,7 +13,7 @@
   </p>
 </p>
 
-<h1 align="center">![djs](docs/discord_js.png)</h1>
+<h1 align="center">"![djs](docs/discord_js.png)"</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
