@@ -8,6 +8,8 @@
     <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Request Feature</a>
+    .
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Ask Question</a>
   </p>
 </p>
 
