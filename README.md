@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![djs](docs/discord_js.png)![js](docs/javascript.png)![nodejs](docs/node_js.jpg)![heroku](docs/heroku.jpg)![replit](docs/replit.png)![discord](docs/discord_logo.jpg)
+![djs](docs/discord_js.png)![js](docs/javascript.png)![nodejs](docs/node_js.jpg)![heroku](docs/heroku.jpg)![replit](docs/replit.png)![discord](docs/discord_logo.jpg)![discord canary](docs/discord_canary.jpg)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
