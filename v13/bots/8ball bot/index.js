@@ -13,7 +13,7 @@ for (const file of commandFiles) {
     client.commands.set(command.data.name, command);
 }
 client.once('ready', () => {
-    console.log(`Logged in as ${client.user.tag}`)
+    console.log(`Logged in as ${client.user.tag}`);
 });
 client.on('interactionCreate', async interaction => {
     if (!interaction.isCommand()) return;
