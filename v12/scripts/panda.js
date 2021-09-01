@@ -4,6 +4,7 @@ Requested by: fioragaming
 
 const fs = require('fs');
 const Discord = require('discord.js');
+const config = require('config file location, for example ../config.json');
 module.exports = {
     name: "panda",
     description: "Sends panda gif!",
