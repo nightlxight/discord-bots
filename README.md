@@ -72,9 +72,9 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the project
 2. Clone the project
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
+3. Commit your changes
+4. Push to the branch
+5. Open a pull request
 
 
 <br>
