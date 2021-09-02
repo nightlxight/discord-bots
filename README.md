@@ -73,7 +73,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Discord: **PurpleLotus 🦋#0001**
 
 Discord Server: *in the future*
 
