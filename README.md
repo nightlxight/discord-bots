@@ -37,13 +37,14 @@
 
 📑 We created this repository to help you make Discord bots.
 <br>
+<br>
 💡 **Any ideas?** Feel free to [request](https://github.com/nightlxight/discord-bots/issues/new/choose) [feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
 ❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
 🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-🍕 **Want to contribute?** Feel free to <li><a href="#contributing">help</a></li>
+🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
 
 
 
