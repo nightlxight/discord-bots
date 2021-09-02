@@ -33,7 +33,7 @@
 
 
 <!-- ABOUT -->
-### About
+## About
 
 📑 We created this repository to help you make Discord bots.
 <br>
@@ -49,7 +49,7 @@
 
 
 
-### Installation
+## Installation
 
 1. Install NPM packages first.
    ```sh
