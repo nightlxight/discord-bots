@@ -46,12 +46,12 @@
 <br>
 🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
 
-
+<br>
 
 
 ## Installation
 
-1. Install NPM packages first.
+**1.** Install NPM packages first.
    ```sh
    npm install discord.js
    ```
@@ -61,7 +61,7 @@
 
 
 
-
+<br>
 
 
 
@@ -76,12 +76,15 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch
 5. Open a Pull Request
 
+
+<br>
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
 
-
+<br>
 
 <!-- CONTACT -->
 ## Contact
@@ -91,7 +94,6 @@ Discord: **moonlxight#0001**
 Discord Server: *in the future*
 
 Project Link: [click here for the link](https://github.com/nightlxight/discord-bots)
-
 
 
 
