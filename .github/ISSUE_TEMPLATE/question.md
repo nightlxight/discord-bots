@@ -1,6 +1,6 @@
 ---
 name: Question
-about: 💡 Any ideas? Feel free to ask! :)
+about: ❔ Any questions? Feel free to ask! :)
 title: "Feel free to ask your question! :)"
 labels: question
 assignees: ''
