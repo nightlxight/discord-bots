@@ -38,7 +38,7 @@
 📑 We created this repository to help you make Discord bots.
 <br>
 <br>
-💡 **Any ideas?** Feel free to [request](https://github.com/nightlxight/discord-bots/issues/new/choose) [feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
+💡 **Any ideas?** Feel free to [request feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
 ❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
