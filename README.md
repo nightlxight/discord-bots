@@ -66,13 +66,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [`LICENSE.md`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
+Discord: **moonlxight#0001**
 
 Discord Server: *in the future*
 
