@@ -23,6 +23,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+    <li><a href="#about">About</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -31,7 +32,15 @@
 </details>
 
 
+<!-- ABOUT -->
+### About
 
+📑 We created this repository to help you make Discord bots.
+<br>
+💡 **Any ideas?** Feel free to [request](https://github.com/nightlxight/discord-bots/issues/new/choose) [feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
+❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
+🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
+🍕 **Want to contribute?** Feel free to <li><a href="#contributing">help</a></li>
 
 
 
