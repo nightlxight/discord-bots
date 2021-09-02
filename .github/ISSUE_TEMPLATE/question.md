@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question
-title: "Don't get hesitate to ask your question. :)"
+title: "❔ Any questions? Feel free to ask! :)"
 labels: question
 assignees: ''
 
