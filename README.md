@@ -13,8 +13,9 @@
   </p>
 </p>
 
-![djs](docs/discord_js.png)![js](docs/javascript.png)![nodejs](docs/node_js.jpg)![heroku](docs/heroku.jpg)![replit](docs/replit.png)![discord](docs/discord_logo.jpg)![discord canary](docs/discord_canary.jpg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![djs](docs/discord_js.png)![js](docs/javascript.png)![nodejs](docs/node_js.jpg)![heroku](docs/heroku.jpg)![replit](docs/replit.png)![dc](docs/discord_logo.jpg)![discord canary](docs/discord_canary.jpg)
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Discord](https://img.shields.io/badge/discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
