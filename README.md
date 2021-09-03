@@ -40,7 +40,7 @@
 
 
 <!-- ABOUT -->
-## About
+## 🍕 About
 
 📑 We created this repository to help you make Discord bots.
 <br>
@@ -56,7 +56,7 @@
 <br>
 
 
-## Installation
+## 🍔 Installation
 
 **1.** Install NPM packages first.
    ```sh
@@ -73,7 +73,7 @@
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🍟 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
