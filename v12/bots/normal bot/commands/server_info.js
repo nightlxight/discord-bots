@@ -1,6 +1,7 @@
 var fs = require('fs');
 const { token, prefix, client_id, guild_id } = require('../config.json');
 const { MessageEmbed } = require('discord.js');
+const { random_color, aqua, red, purple, cyan, orange, yellow, green, lightcyan, pink } = require('../colors.json'); /* HTML colors */
 
 module.exports = {
     name: 'server',
@@ -8,7 +9,7 @@ module.exports = {
     execute(client, message, args) {
         let embed = new MessageEmbed()
             .setTitle('Server information')
-            .setColor('RANDOM')
+            .setColor(random_color) // random_color aqua red purple cyan orange yellow green lightcyan pink TO ADD MORE GO TO colors.json
             .setDescription('Server information can be founded in below')
             .addFields(
                 { name: 'Server Name', value: `${message.guild.name}`, inline: true},
