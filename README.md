@@ -4,6 +4,7 @@
     🤖 To help you to make your discord bots :)
     <br />
     <br />
+    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
     <br />
     <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Report Bug</a>
     ·
