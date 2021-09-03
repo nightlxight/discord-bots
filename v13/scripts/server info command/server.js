@@ -8,7 +8,7 @@ module.exports = {
 		.setName('server')
 		.setDescription('Display info about this server.'),
 	async execute(interaction) {
-        let gowner = interaction.guild.fetchOwner();
+        let gowner = await interaction.guild.fetchOwner();
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, aqua, lightcyan, yellow, orange, purple, pink, cyan, random_color
             .setTitle('Server information can be found below')
