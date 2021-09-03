@@ -1,0 +1,6 @@
+{
+    "prefix": "your bots prefix",
+    "guild_id": "your bot development server id",
+    "client_id": "your bots application id",
+    "token": "your bots token"
+}
