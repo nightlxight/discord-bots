@@ -96,7 +96,9 @@ Discord Server: *in the future*
 Project Link: [click here for the link](https://github.com/nightlxight/discord-bots)
 
 
+<br>
 
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 
 
