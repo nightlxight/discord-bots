@@ -45,7 +45,7 @@
 
 
 <!-- ABOUT -->
-## 🍕 About
+## About
 
 📑 We created this repository to help you make Discord bots.
 <br>
@@ -61,7 +61,7 @@
 <br>
 
 
-## 🍔 Installation
+## Installation
 
 **1.** Install NPM packages first.
    ```sh
@@ -78,7 +78,7 @@
 
 
 <!-- CONTRIBUTING -->
-## 🍟 Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -92,14 +92,14 @@ Contributions are what make the open source community such an amazing place to b
 <br>
 
 <!-- LICENSE -->
-## 📝 License
+## License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
 
 <br>
 
 <!-- CONTACT -->
-## 📨 Contact
+## Contact
 
 Discord: **moonlxight#0001**
 
