@@ -1,4 +1,5 @@
 var fs = require('fs');
+
 module.exports = {
 	name: 'catjam',
 	description: 'Sends catJAM gif',
