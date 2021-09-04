@@ -1,7 +1,7 @@
   <h1 align="center">Discord Bots</h1>
 
   <p align="center">
-    🤖 To help you to make your discord bots :)                                             
+    🤖 To help you to make your discord bots :)                                              
     <br />
     <br />
     <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
