@@ -87,7 +87,7 @@ Contributions are what make the open source community such an amazing place to b
 <br>
 
 <!-- LICENSE -->
-## 📝 License
+## License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
 
