@@ -23,7 +23,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=🎉+Discord+Bots+🎉;🤖+to+help+you+to+make+bots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=🎉+Discord+Botları+🎉;🤖+botlarınıza+yardım+edebilmek+için+yapıldı)](https://git.io/typing-svg)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -33,8 +33,8 @@
     <li><a href="#hakkında">Hakkında</a></li>
     <li><a href="#kurulum">Kurulum</a></li>
     <li><a href="#katkıda">Katkıda bulun</a></li>
-    <li><a href="#license">Lisans</a></li>
-    <li><a href="#contact">İletişim</a></li>
+    <li><a href="#lisans">Lisans</a></li>
+    <li><a href="#iletişim">İletişim</a></li>
   </ol>
 </details>
 
@@ -51,14 +51,14 @@
 <br>
 🤖 **Problem veya bug mu keşfettiniz?** Hemen [bildirin](https://github.com/nightlxight/discord-bots/issues/new/choose) ve problemi çözmemizde yardımcı olun
 <br>
-🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
+🍕 **Katkıda bulunmak mı istiyorsun?** Yardım etmek için <a href="#contributing">buraya</a> tıkla! Yardım etmede lütfen çekinmeyiniz.
 
 <br>
 
 
 ## Kurulum
 
-**1.** Install NPM packages first.
+**1.** İlk önce NPM paketlerini indirin.
    ```sh
    npm install discord.js
    ```
@@ -75,13 +75,13 @@
 <!-- CONTRIBUTING -->
 ## Katkıda Bulunmak
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için harika bir yer yapan şeydir. Yaptığınız her türlü yardım ve katkılar **çok takdir edilmektedir**.
 
-1. Fork the project
-2. Clone the project
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
+1. Fork the proje
+2. Projeyi klonla
+3. Değişiklikleri uygula
+4. Branşa kaydet
+5. Pull isteği aç
 
 
 <br>
@@ -89,7 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## Lisans
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
+MIT lisansı altında. Daha fazla bilgi için [`buraya`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) tıklayınız.
 
 <br>
 
@@ -98,9 +98,9 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxigh
 
 Discord: **moonlxight#0001**
 
-Discord Server: *in the future*
+Discord Sunucusu: *ilerleyen zamanlarda*
 
-Project Link: [click here for the link](https://github.com/nightlxight/discord-bots)
+Proje Linki: [link için buraya tıklayınız](https://github.com/nightlxight/discord-bots)
 
 
 <br>
