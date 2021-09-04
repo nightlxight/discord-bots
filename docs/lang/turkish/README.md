@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <span>English</span> |
+  <a href="https://github.com/nightlxight/discord-bots">English</a> |
   <a href="https://github.com/nightlxight/discord-bots/blob/main/docs/lang/turkish">Türkçe / Turkish</a>
 </p>
 
