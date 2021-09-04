@@ -19,5 +19,5 @@ module.exports = {
             .setTimestamp()
             .setFooter('Command executed by' + ` ${interaction.user.tag}`);
         return interaction.reply(embed);
-    }
-}
+    },
+};
