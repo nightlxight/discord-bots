@@ -14,7 +14,7 @@
   </p>
 </p>
 
-## Language
+## Dil
 
 <p align="center">
   <a href="https://github.com/nightlxight/discord-bots">English</a> |
