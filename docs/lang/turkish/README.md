@@ -32,7 +32,7 @@
   <ol>
     <li><a href="#hakkında">Hakkında</a></li>
     <li><a href="#kurulum">Kurulum</a></li>
-    <li><a href="#contributing">Katkıda bulun</a></li>
+    <li><a href="#katkıda+bulunmak">Katkıda bulun</a></li>
     <li><a href="#license">Lisans</a></li>
     <li><a href="#contact">İletişim</a></li>
   </ol>
@@ -40,7 +40,7 @@
 
 
 <!-- ABOUT -->
-## 🍕 Hakkında
+## Hakkında
 
 📑 Discord botlarınıza yardımcı olabilmek için oluşturuldu.
 <br>
@@ -56,7 +56,7 @@
 <br>
 
 
-## 🍔 Kurulum
+## Kurulum
 
 **1.** Install NPM packages first.
    ```sh
@@ -73,7 +73,7 @@
 
 
 <!-- CONTRIBUTING -->
-## 🍟 Contributing
+## Katkıda Bulunmak
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -87,14 +87,14 @@ Contributions are what make the open source community such an amazing place to b
 <br>
 
 <!-- LICENSE -->
-## License
+## Lisans
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxight/discord-bots/blob/main/LICENSE) for more information.
 
 <br>
 
 <!-- CONTACT -->
-## 📨 Contact
+## İletişim
 
 Discord: **moonlxight#0001**
 
