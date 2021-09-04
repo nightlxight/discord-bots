@@ -1,5 +1,5 @@
 {
     "guildId": "your development server id here",
     "clientId": "your bots application id here",
-    "token": "your-bot-token-here"
+    "token": "your bots token here"
 }
