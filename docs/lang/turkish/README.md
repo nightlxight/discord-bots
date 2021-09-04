@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  ## Dil
   <a href="https://github.com/nightlxight/discord-bots">English</a> |
   <span>Türkçe / Turkish</span>
 </p>
