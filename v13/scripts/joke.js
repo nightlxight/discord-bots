@@ -12,5 +12,6 @@ module.exports = {
         .setDescription('Sends joke!'),
     async execute(interaction) {
         let jokes = [];
+        let joke = jokes[Math.floor(Math.random() * jokes.length)];
     },
 };
