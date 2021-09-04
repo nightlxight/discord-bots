@@ -4,7 +4,7 @@
 
 DONT FORGET TO DEPLOY YOUR COMMANDS. FOR EXAMPLE node deploy-commands.js
 
-
+Any help would be appreciated, thanks.
 
 */
 var fs = require('fs');
