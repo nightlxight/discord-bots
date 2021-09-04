@@ -6,7 +6,7 @@ module.exports = {
   async execute(client, message, args) {
     if (message.member.hasPermission("MANAGE_MESSAGES")) {
       const deleteCount = parseInt(args[0], 10);
-      const deleteMessage = `**${deleteCount}** adet mesajı sildim!`;
+      const deleteMessage = `Deleted **${deleteCount}** messages.`;
 
       if (!deleteCount || deleteCount > 100 || deleteCount < 2) return message.reply('The number should be between 2 and 100.');
       const fetched = await message.channel.messages.fetch({
