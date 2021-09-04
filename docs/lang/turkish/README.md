@@ -1,22 +1,22 @@
-  <h1 align="center">Discord Bots</h1>
+  <h1 align="center">Discord Botları</h1>
 
   <p align="center">
-    🤖 To help you to make your discord bots :)
+    🤖 Botlarınıza yardım edebilmek için :)
     <br />
     <br />
     <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
     <br />
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Bug Bildir</a>
     ·
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Öneride Bulun</a>
     ·
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Ask Question</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Soru Sor</a>
   </p>
 </p>
 
 ![Djs](https://img.shields.io/badge/discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![DiscordCanary](https://img.shields.io/badge/DiscordCanary-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=yellow)
 <br>
-![djs](docs/img/discord_js.png)![js](docs/img/javascript.png)![nodejs](docs/img/node_js.jpg)![heroku](docs/img/heroku.jpg)![replit](docs/img/replit.png)![dc](docs/img/discord_logo.jpg)![discord canary](docs/img/discord_canary.jpg)
+![djs](https://i.imgur.com/4BqG9Cv.jpeg)![js](docs/img/javascript.png)![nodejs](docs/img/node_js.jpg)![heroku](docs/img/heroku.jpg)![replit](docs/img/replit.png)![dc](docs/img/discord_logo.jpg)![discord canary](docs/img/discord_canary.jpg)
 <br>
 ![Djs](https://img.shields.io/badge/discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![DiscordCanary](https://img.shields.io/badge/DiscordCanary-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=yellow)
 
@@ -28,35 +28,35 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">📌 Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">📌 İçindekiler</h2></summary>
   <ol>
-    <li><a href="#about">📄 About</a></li>
-    <li><a href="#installation">🎈 Installation</a></li>
-    <li><a href="#contributing">📝 Contributing</a></li>
-    <li><a href="#license">📑 License</a></li>
-    <li><a href="#contact">📨 Contact</a></li>
+    <li><a href="#hakkında">Hakkında</a></li>
+    <li><a href="#kurulum">Kurulum</a></li>
+    <li><a href="#contributing">Katkıda bulun</a></li>
+    <li><a href="#license">Lisans</a></li>
+    <li><a href="#contact">İletişim</a></li>
   </ol>
 </details>
 
 
 <!-- ABOUT -->
-## 🍕 About
+## 🍕 Hakkında
 
-📑 We created this repository to help you make Discord bots.
+📑 Discord botlarınıza yardımcı olabilmek için oluşturuldu.
 <br>
 <br>
-💡 **Any ideas?** Feel free to [request feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
+💡 **Fikirleriniz mi var?** [Öneride bulunmaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin ve katkıda
 <br>
-❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
+❔ **Sorularınız mı var?** [Soru sormaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin
 <br>
-🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
+🤖 **Problem veya bug mu keşfettiniz?** Hemen [bildirin](https://github.com/nightlxight/discord-bots/issues/new/choose) ve problemi çözmemizde yardımcı olun
 <br>
 🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
 
 <br>
 
 
-## 🍔 Installation
+## 🍔 Kurulum
 
 **1.** Install NPM packages first.
    ```sh
