@@ -14,6 +14,11 @@
   </p>
 </p>
 
+<p align="center">
+  <span>English</span> |
+  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">Türkçe/Turkish</a>
+</p>
+
 ![Djs](https://img.shields.io/badge/discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)![DiscordCanary](https://img.shields.io/badge/DiscordCanary-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=yellow)
 <br>
 ![djs](docs/img/discord_js.png)![js](docs/img/javascript.png)![nodejs](docs/img/node_js.jpg)![heroku](docs/img/heroku.jpg)![replit](docs/img/replit.png)![dc](docs/img/discord_logo.jpg)![discord canary](docs/img/discord_canary.jpg)
