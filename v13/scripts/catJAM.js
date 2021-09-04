@@ -1,3 +1,12 @@
+/*
+
+
+
+DONT FORGET TO DEPLOY YOUR COMMANDS. FOR EXAMPLE node deploy-commands.js
+
+
+
+*/
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
