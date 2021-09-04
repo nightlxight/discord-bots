@@ -1,6 +1,7 @@
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
+const { random_color, red, green, aqua, lightcyan, orange, yellow, purple, pink, cyan } = require('../colors.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -9,7 +10,7 @@ module.exports = {
     async execute(interaction) {
         let gowner = await interaction.guild.fetchOwner();
         let serverEmbed = new MessageEmbed()
-            .setColor('RANDOM')
+            .setColor(random_color) // random_color, red, green, aqua, lightcyan, orange, yellow, purple, pink, cyan check colors.json to add more
             .setTitle('Server Information')
             .setDescription('Server information can be found below.')
             .addFields(
