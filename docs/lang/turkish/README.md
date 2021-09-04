@@ -94,7 +94,7 @@ MIT lisansı altında. Daha fazla bilgi için [`buraya`](https://github.com/nigh
 <br>
 
 <!-- CONTACT -->
-## İletişim
+## Iletişim
 
 Discord: **moonlxight#0001**
 
