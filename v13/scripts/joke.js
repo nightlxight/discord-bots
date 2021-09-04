@@ -4,3 +4,4 @@ any help would be appreciated
 */
 
 var fs = require('fs');
+const { SlashCommandBuilder } = require('@discordjs/builders');
