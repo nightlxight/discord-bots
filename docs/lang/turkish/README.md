@@ -45,7 +45,7 @@
 📑 Discord botlarınıza yardımcı olabilmek için oluşturuldu.
 <br>
 <br>
-💡 **Fikirleriniz mi var?** [Öneride bulunmaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin ve katkıda bulunun
+💡 **Fikirleriniz mi var?** [Öneride bulunmaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin ve katkıda
 <br>
 ❔ **Sorularınız mı var?** [Soru sormaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin
 <br>
