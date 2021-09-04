@@ -15,7 +15,7 @@ execute(client, message, args) {
     let Embed = new MessageEmbed()
       .setTitle('Joke command!')
       .setDescription(`${response}`)
-      .setColor(`RANDOM`)
+      .setColor('RANDOM')
       .setFooter(`Command executed by ${message.author.tag}`)
       .setTimestamp();
     message.channel.send(Embed);
