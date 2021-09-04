@@ -94,7 +94,7 @@ Contributions are what make the open source community such an amazing place to b
 **1.** Fork the project
 **2.** Clone the project
 **3.** Commit your changes
-4. Push to the branch
+**4.** Push to the branch
 5. Open a pull request
 
 
