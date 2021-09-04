@@ -30,7 +30,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">📌 İçindekiler</h2></summary>
   <ol>
-    <li><a href="#🍕 Hakkında">Hakkında</a></li>
+    <li><a href="#hakkında">Hakkında</a></li>
     <li><a href="#kurulum">Kurulum</a></li>
     <li><a href="#contributing">Katkıda bulun</a></li>
     <li><a href="#license">Lisans</a></li>
