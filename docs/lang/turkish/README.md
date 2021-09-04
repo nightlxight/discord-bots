@@ -1,16 +1,16 @@
-  <h1 align="center">Discord Botları</h1>
+  <h1 align="center">Discord Bots</h1>
 
   <p align="center">
-    🤖 Botlarınıza yardım edebilmek için :)
+    🤖 To help you to make your discord bots :)
     <br />
     <br />
     <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
     <br />
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Bug Bildir</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Öneride Bulun</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Soru Sor</a>
+    <a href="https://github.com/nightlxight/discord-bots/issues/new/choose">Ask Question</a>
   </p>
 </p>
 
@@ -28,35 +28,35 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">📌 İçindekiler</h2></summary>
+  <summary><h2 style="display: inline-block">📌 Table of Contents</h2></summary>
   <ol>
-    <li><a href="#hakkında">Hakkında</a></li>
-    <li><a href="#kurulum">Kurulum</a></li>
-    <li><a href="#contributing">Katkıda bulun</a></li>
-    <li><a href="#license">Lisans</a></li>
-    <li><a href="#contact">İletişim</a></li>
+    <li><a href="#about">📄 About</a></li>
+    <li><a href="#installation">🎈 Installation</a></li>
+    <li><a href="#contributing">📝 Contributing</a></li>
+    <li><a href="#license">📑 License</a></li>
+    <li><a href="#contact">📨 Contact</a></li>
   </ol>
 </details>
 
 
 <!-- ABOUT -->
-## 🍕 Hakkında
+## 🍕 About
 
-📑 Discord botlarınıza yardımcı olabilmek için oluşturuldu.
+📑 We created this repository to help you make Discord bots.
 <br>
 <br>
-💡 **Fikirleriniz mi var?** [Öneride bulunmaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin ve katkıda
+💡 **Any ideas?** Feel free to [request feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-❔ **Sorularınız mı var?** [Soru sormaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin
+❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-🤖 **Problem veya bug mu keşfettiniz?** Hemen [bildirin](https://github.com/nightlxight/discord-bots/issues/new/choose) ve problemi çözmemizde yardımcı olun
+🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
 🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
 
 <br>
 
 
-## 🍔 Kurulum
+## 🍔 Installation
 
 **1.** Install NPM packages first.
    ```sh
