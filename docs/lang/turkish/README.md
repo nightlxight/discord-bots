@@ -32,7 +32,7 @@
   <ol>
     <li><a href="#hakkında">Hakkında</a></li>
     <li><a href="#kurulum">Kurulum</a></li>
-    <li><a href="#katkıda+bulunmak">Katkıda bulun</a></li>
+    <li><a href="#katkıda bulunmak">Katkıda bulun</a></li>
     <li><a href="#license">Lisans</a></li>
     <li><a href="#contact">İletişim</a></li>
   </ol>
