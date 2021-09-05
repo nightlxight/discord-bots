@@ -1,9 +1,3 @@
-/*
-
-coming soon
-
-*/
-
 var fs = require('fs');
 const client_id = "Your bots application id here";
 
