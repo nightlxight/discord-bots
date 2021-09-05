@@ -1,4 +1,4 @@
-### Errors
+# Errors
 
 ## DiscordAPIError: Missing Access
 
