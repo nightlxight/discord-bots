@@ -1,9 +1,4 @@
-/*
 
-coming soon
-any help would be appreciated
-                                                   s w         
-*/
 
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
