@@ -54,6 +54,8 @@
 📑 Discord botlarınıza yardımcı olabilmek için oluşturuldu.
 <br>
 <br>
+❗ **Hatalar mı var?** Sorun değil! Lütfen [errors.md](https://github.com/nightlxight/discord-bots/blob/main/docs/errors.md#errors)'yi inceleyiniz ve size yardımcı olabiliriz
+<br>
 💡 **Fikirleriniz mi var?** [Öneride bulunmaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin ve katkıda
 <br>
 ❔ **Sorularınız mı var?** [Soru sormaktan](https://github.com/nightlxight/discord-bots/issues/new/choose) çekinmeyin
