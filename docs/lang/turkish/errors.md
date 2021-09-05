@@ -40,12 +40,12 @@ Bu yaygın bir hatadır; `client.login()` da bulunabilen yanlış tokenden kayna
 
 ## Cannot send messages to this user.
 
-This error throws when the bot attempts to send a DM message to a user but cannot do so. A variety of reasons causes this:
+Bu hata, bot bir kullanıcıya DM mesajı göndermeye çalıştığında ancak bunu yapamadığında ortaya çıkar. Buna çeşitli nedenler neden olur:
 <br>
-* The bot and the user do not share a guild (often, people attempt to dm the user after kicking or banning them).
-* The bot tries to DM another bot.
-* The user has blocked the bot.
-* The user has disabled dms in the privacy settings.
+* Bot ve kullanıcı bir sunucuyu paylaşmazlar (genellikle insanlar kullanıcıyı attıktan veya yasakladıktan sonra DM göndermeye çalışırlar).
+* Bot başka bir botu DM göndermeye çalışır.
+* Kullanıcı botu engellemiş olabilir.
+* Kullanıcı gizlilik ayarlarından DM'lerini kapatmış olabilir.
 
 <br>
 
