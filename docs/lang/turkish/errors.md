@@ -21,7 +21,7 @@ Lütfen kodunuzu [buraya](https://github.com/nightlxight/discord-bots/issues/new
 
 ## ReferenceError: "x" is not defined
 
-Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose) so we can help you fix the problem.
+Lütfen kodunuzu [buraya](https://github.com/nightlxight/discord-bots/issues/new/choose) gönderin ve probleminizi çözmemizde yardımcı olalım
 <br>
 Check this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) for more information.
 
