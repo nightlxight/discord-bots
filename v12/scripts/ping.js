@@ -1,4 +1,4 @@
-let fs = require('fs');
+const fs = require('fs');
 const Discord = require("discord.js");
 
 module.exports = {
