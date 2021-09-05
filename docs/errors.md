@@ -1,3 +1,5 @@
+### Errors
+
 ## DiscordAPIError: Missing Access
 
 Enable the `applications.commands` scope for your bot.
