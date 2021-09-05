@@ -12,3 +12,7 @@ If you run your bot through a process manager, make sure to restart the daemon p
 If you run on heroku or similar services, check out their documentation on how to update the node version (likely via the engines key in package.json)
 <br>
 Unsure you are using the right one? Log console.log(process.version) in your code
+
+## DiscordAPIError: Cannot send an empty message
+
+Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose).
