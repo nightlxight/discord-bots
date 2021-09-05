@@ -25,6 +25,19 @@ Please send your code in [here](https://github.com/nightlxight/discord-bots/issu
 <br>
 Check this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) for more information.
 
+
+## An invalid token was provided.
+
+<br>
+
+This is a prevalent error; it originates from a wrong token being passed into `client.login()`. The most common causes of this error are:
+
+<br>
+
+* Not importing the config or env file correctly
+* Copying the client secret instead of the bot token (the token is alphanumerical and three parts delimited by a period while the client secret is significantly smaller and one part only)
+* Simply showing the token and copying that, instead of clicking regenerate and copying that.
+
 ## Cannot send messages to this user.
 
 This error throws when the bot attempts to send a DM message to a user but cannot do so. A variety of reasons causes this:
