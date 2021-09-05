@@ -8,6 +8,10 @@ module.exports = {
         .setName('invite')
         .setDescription('Sends invite link to your bot!'),
         async execute(interaction) {
-            return interaction.reply(`https://discord.com/api/oauth2/authorize?client_id=${client_id}&permissions=0&scope=bot%20applications.commands`);
+            let embed = new MessageEmbed()
+                .setColor('RANDOM')
+                .setTitle('Invite Link')
+                .setDescription(`https://discord.com/api/oauth2/authorize?client_id=${client_id}&permissions=0&scope=bot%20applications.commands`)
+            return interaction.reply({ embeds: [embed] });
         },
 };
