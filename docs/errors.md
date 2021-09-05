@@ -16,3 +16,9 @@ Unsure you are using the right one? Log console.log(process.version) in your cod
 ## DiscordAPIError: Cannot send an empty message
 
 Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose) so we can help you fix the problem
+
+## ReferenceError: "x" is not defined
+
+Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose) so we can help you fix the problem.
+<br>
+Check this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) for more information.
