@@ -15,4 +15,4 @@ Unsure you are using the right one? Log console.log(process.version) in your cod
 
 ## DiscordAPIError: Cannot send an empty message
 
-Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose).
+Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose) so we can help you fix the problem
