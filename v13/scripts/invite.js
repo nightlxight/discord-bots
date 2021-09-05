@@ -12,6 +12,8 @@ module.exports = {
                 .setColor('RANDOM')
                 .setTitle('Invite Link')
                 .setDescription(`https://discord.com/api/oauth2/authorize?client_id=${client_id}&permissions=0&scope=bot%20applications.commands`)
+                .setFooter(`Command executed by ${interaction.user.tag}`)
+                .setTimestamp();
             return interaction.reply({ embeds: [embed] });
         },
 };
