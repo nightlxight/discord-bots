@@ -24,3 +24,16 @@ Please send your code in [here](https://github.com/nightlxight/discord-bots/issu
 Please send your code in [here](https://github.com/nightlxight/discord-bots/issues/new/choose) so we can help you fix the problem.
 <br>
 Check this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) for more information.
+
+## Cannot send messages to this user.
+
+This error throws when the bot attempts to send a DM message to a user but cannot do so. A variety of reasons causes this:
+<br>
+* The bot and the user do not share a guild (often, people attempt to dm the user after kicking or banning them).
+* The bot tries to DM another bot.
+* The user has blocked the bot.
+* The user has disabled dms in the privacy settings.
+
+<br>
+
+In the case of the last two reasons, the error is not preventable, as the Discord API does not provide a way to check if you can send a user a dm until you attempt to send one. The best way to handle this error is to add a `.catch()` where you try to dm the user and either ignore the rejected Promise or do what you want because of it.
