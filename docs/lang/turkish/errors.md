@@ -49,4 +49,4 @@ Bu hata, bot bir kullanıcıya DM mesajı göndermeye çalıştığında ancak b
 
 <br>
 
-In the case of the last two reasons, the error is not preventable, as the Discord API does not provide a way to check if you can send a user a dm until you attempt to send one. The best way to handle this error is to add a `.catch()` where you try to dm the user and either ignore the rejected Promise or do what you want because of it.
+Son iki neden söz konusu olduğunda, Discord API, bir kullanıcıya bir dm göndermeyi deneyene kadar bir kullanıcıya dm gönderip gönderemeyeceğinizi kontrol etmek için bir yol sağlamadığından hata önlenebilir değildir. Bu hatayı halletmenin en iyi yolu, kullanıcıya dm göndermeye çalıştığınız ve reddedilen Sözü yok saydığınız veya bu nedenle istediğinizi yaptığınız bir `.catch()` eklemektir.
