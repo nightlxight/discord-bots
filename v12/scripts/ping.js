@@ -4,7 +4,6 @@ const Discord = require("discord.js");
 module.exports = {
   name: "ping",
   category: "info",
-
   description: "Sends API ping and latency ping",
   timeout: 10000,
 	execute(client, message, args) {
