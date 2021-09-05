@@ -1,4 +1,3 @@
-
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 let client_id = "882588156245971005";
