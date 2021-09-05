@@ -5,7 +5,7 @@ module.exports = {
 
   description: "Sends API ping and latency ping",
   timeout: 10000,
-	execute(client, message, args) {                                              
+	execute(client, message, args) {                                               
     message.channel.send(`🏓 Getting ping....`).then((msg) => {
       const _ = new Discord.MessageEmbed()
         .setTitle("Pong!")
