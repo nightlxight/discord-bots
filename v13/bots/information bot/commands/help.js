@@ -14,7 +14,8 @@ module.exports = {
             .setDescription('Commands can be found below')
             .addFields(
                 { name: `/invite`, value: 'Sends an invite link to bot!', inline: true},
-                { name: `/server`, value: 'Sends information about this server!', inline: true},
+                { name: `/server`, value: 'Sends information about this server!', inline: false},
+                { name: `/user`, value: "Sends information about yourself!", inline: false},
             )
             .setTimestamp()
             .setFooter('Command executed by' + ` ${interaction.user.tag}`);
