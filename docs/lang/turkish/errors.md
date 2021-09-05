@@ -23,7 +23,7 @@ Lütfen kodunuzu [buraya](https://github.com/nightlxight/discord-bots/issues/new
 
 Lütfen kodunuzu [buraya](https://github.com/nightlxight/discord-bots/issues/new/choose) gönderin ve probleminizi çözmemizde yardımcı olalım
 <br>
-Check this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) for more information.
+Daha fazla bilgi için bu [linki](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined) kontrol edin
 
 
 ## An invalid token was provided.
