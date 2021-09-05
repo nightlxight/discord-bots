@@ -30,13 +30,13 @@ Daha fazla bilgi için bu [linki](https://developer.mozilla.org/en-US/docs/Web/J
 
 <br>
 
-This is a prevalent error; it originates from a wrong token being passed into `client.login()`. The most common causes of this error are:
+Bu yaygın bir hatadır; `client.login()` da bulunabilen yanlış tokenden kaynaklanabilir. The most common causes of this error are:
 
 <br>
 
-* Not importing the config or env file correctly
-* Copying the client secret instead of the bot token (the token is alphanumerical and three parts delimited by a period while the client secret is significantly smaller and one part only)
-* Simply showing the token and copying that, instead of clicking regenerate and copying that.
+* Config veya .env dosyası tam içe aktarılmamış olabilir
+* Bot belirteci yerine istemci sırrını kopyalama (belirteç alfasayısaldır ve istemci sırrı önemli ölçüde daha küçük ve yalnızca bir parça iken bir nokta ile sınırlandırılmış üç parça)
+* Tokeni yeniden oluştur ve kopyalamak yerine, token göster ve kopyala.
 
 ## Cannot send messages to this user.
 
