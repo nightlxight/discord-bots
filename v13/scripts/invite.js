@@ -1,6 +1,6 @@
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
-let client_id = "882588156245971005";
+let client_id = "your bots application id here";
 
 module.exports = {
     data: new SlashCommandBuilder()
