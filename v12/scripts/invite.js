@@ -4,4 +4,4 @@ coming soon
 
 */
 
-const fs = require('fs');
+var fs = require('fs');
