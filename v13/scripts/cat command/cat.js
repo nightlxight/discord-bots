@@ -13,5 +13,5 @@ const { MessageEmbed } = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('cat')
-        .setDescription('')
+        .setDescription('Sends cat photo or gif!')
 };
