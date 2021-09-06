@@ -18,8 +18,11 @@ module.exports = {
         .setDescription('Sends cat photo or gif!'),
     async execute(interaction) {
         let cat1 = gifs.cats.cat1;
+        let cat2 = gifs.cats.cat2;
+        let cat3 = gifs.cats.cat3;
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
             .setTitle('Cat')
+            .setDescription()
     },
 };
