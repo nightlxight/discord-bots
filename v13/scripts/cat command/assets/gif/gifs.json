@@ -1,3 +1,5 @@
 {
-    "coming": "soon"
+    "cats": {
+        "cat1": "coming soon"
+    }
 }
