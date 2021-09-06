@@ -19,6 +19,7 @@ module.exports = {
     async execute(interaction) {
         let cat1 = gifs.cats.cat1;
         let embed = new MessageEmbed()
-            .setColor('RANDOM')
+            .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
+            .setTitle('Cat')
     },
 };
