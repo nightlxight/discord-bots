@@ -14,5 +14,7 @@ module.exports = {
     data: new SlashCommandBuilder()
         .setName('cat')
         .setDescription('Sends cat photo or gif!'),
-    async execute(interaction) {},
+    async execute(interaction) {
+        
+    },
 };
