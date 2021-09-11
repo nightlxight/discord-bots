@@ -16,7 +16,7 @@ module.exports = {
         .setDescription('Sends cat photo or gif!'),
     async execute(interaction) {
         const cats = gifs.cats;
-        
+        let titles = [];
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
             .setTitle('Cat')
