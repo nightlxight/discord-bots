@@ -22,6 +22,7 @@ module.exports = {
             .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
             .setTitle('Cat')
             .setDescription('')
+            .setFooter()
             .setTimestamp();
     },
 };
