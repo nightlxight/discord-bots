@@ -21,6 +21,6 @@ module.exports = {
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
             .setTitle('Cat')
-            .setDescription()                  
+            .setDescription()                   
     },
 };
