@@ -20,7 +20,7 @@ module.exports = {
         let title = titles[Math.floor(Math.random() * titles.length)];
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, yellow, orange, purple, aqua, lightcyan, cyan, random_color, pink
-            .setTitle('Cat')                                              
+            .setTitle('Cat')
             .setDescription('')
             .setFooter('')
             .setTimestamp();
