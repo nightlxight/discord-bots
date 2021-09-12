@@ -51,18 +51,18 @@
 <!-- ABOUT -->
 ## About
 
-📑 We created this repository to help you make Discord bots.
+‏‏‏‏‏‏‏‏   📑 We created this repository to help you make Discord bots.
 <br>
 <br>
-❗ **Any errors?** No problem! See [errors.md](https://github.com/nightlxight/discord-bots/blob/main/docs/errors.md#errors) so we can help you
+‏‏‏‏‏‏‏‏   ❗ **Any errors?** No problem! See [errors.md](https://github.com/nightlxight/discord-bots/blob/main/docs/errors.md#errors) so we can help you
 <br>
-💡 **Any ideas?** Feel free to [request feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
+‏‏‏‏‏‏‏‏   💡 **Any ideas?** Feel free to [request feature](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
+‏‏‏‏‏‏‏‏   ❔ **Any questions?** Feel free to [ask](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
+‏‏‏‏‏‏‏‏   🤖 **Any problems or bugs?** Don't be hesitate to tell us so we can [fix](https://github.com/nightlxight/discord-bots/issues/new/choose)
 <br>
-🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
+‏‏‏‏‏‏‏‏   🍕 **Want to contribute?** Feel free to <a href="#contributing">help</a>
 
 <br>
 
