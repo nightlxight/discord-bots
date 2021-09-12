@@ -10,7 +10,7 @@ module.exports = {
         .setDescription('Sends invite link to your bot!'),
         async execute(interaction) {
             let embed = new MessageEmbed()
-                .setColor(random_color) //
+                .setColor(random_color) //red, green, purple, random_color, aqua, lightcyan, cyan, yellow, orange, pink
                 .setTitle('Invite Link')
                 .setDescription(`https://discord.com/api/oauth2/authorize?client_id=${client_id}&permissions=0&scope=bot%20applications.commands`)
                 .setFooter(`Command executed by ${interaction.user.tag}`)
