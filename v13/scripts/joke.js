@@ -32,7 +32,8 @@ module.exports = {
         let title = titles[Math.floor(Math.random() * titles.length)];
 
         let footers = [
-            
+            `Command executed by ${interaction.user.tag}`,
+            `/joke | ${interaction.user.tag}`
         ];
 
         let embed = new MessageEmbed()
