@@ -26,7 +26,7 @@ module.exports = {
 
         let titles = [
             "Joke command",
-            "Joke!"
+            "Joke!" //,
             // add more titles here
         ];
         let title = titles[Math.floor(Math.random() * titles.length)];
