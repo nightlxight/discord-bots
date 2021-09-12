@@ -114,7 +114,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/nightlxigh
 <!-- CONTACT -->
 ## Contact
 
-Discord: **moonlxight#0001**
+Discord: **moonlxight#8593**
 
 Discord Server: *in the future*
 
