@@ -113,7 +113,7 @@ MIT lisansı altında. Daha fazla bilgi için [`buraya`](https://github.com/nigh
 <!-- CONTACT -->
 ## Iletişim
 
-Discord: **moonlxight#0001**
+Discord: **moonlxight#8593**
 
 Discord Sunucusu: *ilerleyen zamanlarda*
 
