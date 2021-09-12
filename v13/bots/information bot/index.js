@@ -13,7 +13,8 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-    console.log('Successful!');
+    let { successfullLog } = require('./config/onReady/consoleLog/successful.json');
+    console.log(successfullLog);
     console.log(`Logged in as ${client.user.tag}`);
 });
 
