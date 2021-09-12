@@ -6,5 +6,6 @@ module.exports = {
         let number = Math.floor(Math.random() * 1000);
         let embed = new Discord.MessageEmbed()
             .setColor('RANDOM')
+            .setTitle('Random Number')
     }
 }
