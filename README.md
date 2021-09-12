@@ -50,7 +50,8 @@
 
 <!-- ABOUT -->
 ## About
-<br>📑 We created this repository to help you make Discord bots.
+
+📑 We created this repository to help you make Discord bots.
 <br>
 <br>
 ❗ **Any errors?** No problem! See [errors.md](https://github.com/nightlxight/discord-bots/blob/main/docs/errors.md#errors) so we can help you
