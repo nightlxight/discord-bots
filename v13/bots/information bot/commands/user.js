@@ -1,6 +1,7 @@
 var fs = require('fs');
 const { MessageEmbed } = require('discord.js');
 const { SlashCommandBuilder } = require('@discordjs/builders');
+const { random_color, red, green, yellow, orange, aqua, lightcyan, cyan, purple, pink } = require('../config/colors/colors.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
