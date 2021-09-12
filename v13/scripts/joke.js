@@ -25,7 +25,8 @@ module.exports = {
         let joke = jokes[Math.floor(Math.random() * jokes.length)];
 
         let titles = [
-            
+            "Joke command",
+            "Joke!"
         ];
 
         let embed = new MessageEmbed()
