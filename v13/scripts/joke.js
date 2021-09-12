@@ -31,8 +31,10 @@ module.exports = {
         ];
         let title = titles[Math.floor(Math.random() * titles.length)];
 
-        let footers = [];
-        
+        let footers = [
+            
+        ];
+
         let embed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle(title)
