@@ -1,6 +1,6 @@
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
-let client_id = "your bots application id here";
+let { client_id } = require('./client_id.json'); // let client_id = "your bots application id here";
 const { MessageEmbed } = require('discord.js');
 let { red, green, purple, random_color, aqua, lightcyan, cyan, yellow, orange, pink } = require('./colors.json');
 
