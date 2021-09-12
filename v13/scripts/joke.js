@@ -21,6 +21,7 @@ module.exports = {
             "What is brown, hairy and wears sunglasses?\nA coconut on vacation."
             // add more jokes here
         ];
+        
         let joke = jokes[Math.floor(Math.random() * jokes.length)];
         let embed = new MessageEmbed()
             .setColor('RANDOM')
