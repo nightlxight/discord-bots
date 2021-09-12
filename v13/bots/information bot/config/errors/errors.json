@@ -1,3 +1,4 @@
 {
-    "commandErrorConsole": "There was an error!"
+    "commandExecuteErrorConsole": "There was an error!",
+    "commandExecuteErrorMessage": "Can't execute this command!"
 }
