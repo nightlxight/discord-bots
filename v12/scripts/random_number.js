@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+let prefix = "";
 
 module.exports = {
     name: "number",
@@ -8,6 +9,7 @@ module.exports = {
             .setColor('RANDOM')
             .setTitle('Random Number')
             .setDescription(number)
+            .setFooter(number + ` | ${message.author.tag} ${prefix}number`)
             .setTimestamp();
     }
 }
