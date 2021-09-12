@@ -1,5 +1,5 @@
 # Languages
 * Turkish
-* French (coming soon )
+* French (coming soon)
 # Any help
 would be appreciated :)
