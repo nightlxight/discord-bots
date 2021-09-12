@@ -1,4 +1,4 @@
-const fs = require('fs');
+var fs = require('fs');
 const { Client, Collections, Intents } = require('discord.js');
 const { guild_id } = require('./data/guild_id.json');
 const { client_id } = require('./data/client_id.json');
