@@ -15,6 +15,6 @@ module.exports = {
             .addField('Invite link:', 'your bots invite link here', true) /* TO GET YOUR INVITE LINK, PLEASE GO TO https://discordapi.com/permissions.html */
             .setTimestamp()
             .setFooter('Command executed by' + ` **${interaction.user.tag}**`);
-        return interaction.reply(embed);
+        return interaction.reply({embeds: [embed]});
     },
 };
