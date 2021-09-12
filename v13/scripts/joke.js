@@ -29,10 +29,10 @@ module.exports = {
             "Joke!"
         ];
         let title = titles[Math.floor(Math.random() * titles.length)];
-        
+
         let embed = new MessageEmbed()
             .setColor('RANDOM')
-            .setTitle('Joke command')
+            .setTitle(title)
             .setDescription(joke)
             .setFooter(`Command executed by ${interaction.user.tag}`)
             .setTimestamp();
