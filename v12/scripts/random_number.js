@@ -12,5 +12,5 @@ module.exports = {
             .setFooter(number + ` | ${message.author.tag} ${prefix}number`)
             .setTimestamp();
         message.channel.send(embed);
-    }
-}
+    },
+};
