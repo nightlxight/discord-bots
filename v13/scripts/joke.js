@@ -34,6 +34,7 @@ module.exports = {
         let footers = [
             `Command executed by ${interaction.user.tag}`,
             `/joke | ${interaction.user.tag}` //,
+            // add more footers here
         ];
 
         let footer = footers[Math.floor(Math.random() * footerslength)];
