@@ -9,7 +9,7 @@ module.exports = {
         .setDescription('Sends information about yourself'),
     async execute(interaction) {
         let embed = new MessageEmbed()
-            .setColor('RANDOM')
+            .setColor('RANDOM') //random_color, red, green, yellow, orange, aqua, lightcyan, cyan, purple, pink
             .setTitle('Your information can be found below')
             .addFields(
                 { name: "Your username", value: `${interaction.user.tag}` + " " + "😎", inline: true },
