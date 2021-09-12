@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 let { prefix } = require('./prefix.json');
+let { red, green, yellow, orange, aqua, cyan, lightcyan, random_color, purple, pink } = require('./colors.json');
 
 module.exports = {
     name: "number",
