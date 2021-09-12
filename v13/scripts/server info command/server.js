@@ -17,12 +17,12 @@ module.exports = {
                 { name: 'Total Members 😋', value: `${interaction.guild.memberCount}`, inline: true},
                 { name: 'Created at 📅', value: `${interaction.guild.createdAt}`, inline: false},
                 { name: 'Server ID 📑', value: `${interaction.guild.id}`, inline: true},
-                { name: 'Server Owner 😎', value: gowner, inline: true},
+                { name: 'Server Owner 😎', value: `${gowner}`, inline: true},
                 { name: 'Verification Level 👮‍♂️', value: `${interaction.guild.verificationLevel}`, inline: true},
                 { name: 'AFK Channel 🔇', value: `${interaction.guild.afkChannel}`, inline: true},
             )
             .setTimestamp()
             .setFooter(`Command executed by **${interaction.user.tag}**`);
-		return interaction.reply(embed);
+		return interaction.reply({embeds: [embed]});
 	},
 };
