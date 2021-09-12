@@ -1,4 +1,4 @@
-const fs = require('fs');
+var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
