@@ -35,6 +35,7 @@ module.exports = {
             `Command executed by ${interaction.user.tag}`,
             `/joke | ${interaction.user.tag}`
         ];
+        let footer = footers[Math.floor(Math.random() * footerslength)];
 
         let embed = new MessageEmbed()
             .setColor('RANDOM')
