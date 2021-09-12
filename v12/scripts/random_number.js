@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-let prefix = "";
+let prefix = "your bots command prefix here";
 
 module.exports = {
     name: "number",
