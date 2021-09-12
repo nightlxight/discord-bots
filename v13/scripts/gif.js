@@ -53,7 +53,7 @@ module.exports = {
                 "https://tenor.com/view/sleep-tired-pass-out-ko-sleeping-gif-5660983",
                 "https://tenor.com/view/depressed-bored-boredom-swing-head-gif-17224602",
                 "https://tenor.com/view/im-lazy-cute-adorable-bored-gif-15454193",
-                "https://tenor.com/view/go-away-monday-still-sleepy-gif-14865743"
+                "https://tenor.com/view/go-away-monday-still-sleepy-gif-14865743" //,
                 // add gifs here
             ];
             let gif = gifs[Math.floor(Math.random() * gifs.length)];
