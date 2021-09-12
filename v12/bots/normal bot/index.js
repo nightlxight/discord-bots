@@ -1,4 +1,4 @@
-const fs = require('fs');
+var fs = require('fs');
 const Discord = require('discord.js');
 const { prefix, token, client_id, guild_id } = require('./config.json');
 const client = new Discord.Client();
