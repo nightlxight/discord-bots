@@ -18,7 +18,7 @@ module.exports = {
             "What did the microwave say to the other microwave?\nIs it just me? Or is it really hot in here?",
             "Why did the student eat his homework?\nBecause the teacher told him it was a piece of cake!",
             "When you look for something, why is it always in the last place you look?\nBecause when you find it, you stop looking.",
-            "What is brown, hairy and wears sunglasses?\nA coconut on vacation."
+            "What is brown, hairy and wears sunglasses?\nA coconut on vacation." //,
             // add more jokes here
         ];
 
