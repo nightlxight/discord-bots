@@ -28,7 +28,7 @@ module.exports = {
             "Joke command",
             "Joke!"
         ];
-
+        let title = titles[Math.floor(Math.random() * titles.length)];
         let embed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle('Joke command')
