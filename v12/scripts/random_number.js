@@ -7,6 +7,6 @@ module.exports = {
         let embed = new Discord.MessageEmbed()
             .setColor('RANDOM')
             .setTitle('Random Number')
-            .setTimestamp()
+            .setTimestamp();
     }
 }
