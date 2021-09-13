@@ -11,3 +11,4 @@ const { guild_id } = require('./data/guild_id.json');
 const { client_id } = require('./data/client_id.json');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 client.commands = new Collection();
+const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
