@@ -21,6 +21,7 @@ module.exports = {
                     "8ball",
                     "8ball command!" //,
                     // add more titles here
+                    // last title should not contain a comma
                 ];
                 let embed = new MessageEmbed()
                     .setTitle('8 ball command!')
