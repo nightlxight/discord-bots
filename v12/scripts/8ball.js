@@ -19,7 +19,7 @@ module.exports = {
                 responses[Math.floor(Math.random() * responses.length)];
                 let embed = new MessageEmbed()
                     .setTitle('')
-                    .setDescription('')
+                    .setDescription(response)
                     .setColor('RANDOM')
                     .setTimestamp();
                     message.channel.send(embed);
