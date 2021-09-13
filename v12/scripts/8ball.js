@@ -18,7 +18,7 @@ module.exports = {
                 let response =
                 responses[Math.floor(Math.random() * responses.length)];
                 let embed = new MessageEmbed()
-                    .setTitle('')
+                    .setTitle('8 ball command!')
                     .setDescription(response)
                     .setColor('RANDOM')
                     .setTimestamp();
