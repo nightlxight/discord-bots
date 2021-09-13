@@ -20,6 +20,7 @@ module.exports = {
                 let titles = [
                     "8ball",
                     "8ball command!" //,
+                    // add more titles here
                 ];
                 let embed = new MessageEmbed()
                     .setTitle('8 ball command!')
