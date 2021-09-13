@@ -1,5 +1,5 @@
 const { MessageEmbed } = require('discord.js');
-const prefix = "your-prefix-here"; // const { prefix } = require('your prefix location')
+const prefix = "your prefix here"; // const { prefix } = require('your prefix location')
 
 module.exports = {
     name: "8ball",
