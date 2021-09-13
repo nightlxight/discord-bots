@@ -15,6 +15,7 @@ module.exports = {
                     "no",
                     "yes" //,
                     // add more responses here
+                    // the last response should not contain a comma
                 ];
                 let response =
                 responses[Math.floor(Math.random() * responses.length)];
