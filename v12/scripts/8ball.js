@@ -1,3 +1,4 @@
+var fs = require('fs');
 const { MessageEmbed } = require('discord.js');
 const prefix = "your prefix here"; // const { prefix } = require('your prefix location')
 
