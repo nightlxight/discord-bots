@@ -23,7 +23,7 @@ module.exports = {
                     "8ball",
                     "8ball command!" //,
                     // add more titles here
-                    // last title should not contain a comma
+                    // the last title should not contain a comma
                 ];
                 let title = titles[Math.floor(Math.random() * titles.length)];
 
