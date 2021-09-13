@@ -13,7 +13,7 @@ module.exports = {
                 let responses = [
                     "sure",
                     "no",
-                    "yes" // <-- Add responses here
+                    "yes"
                 ];
                 let response =
                 responses[Math.floor(Math.random() * responses.length)];
