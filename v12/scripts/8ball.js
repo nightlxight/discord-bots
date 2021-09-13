@@ -19,7 +19,7 @@ module.exports = {
                 responses[Math.floor(Math.random() * responses.length)];
                 let titles = [
                     "8ball",
-                    "8ball command!"
+                    "8ball command!" //,
                 ];
                 let embed = new MessageEmbed()
                     .setTitle('8 ball command!')
