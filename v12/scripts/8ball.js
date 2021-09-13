@@ -24,9 +24,9 @@ module.exports = {
                     // last title should not contain a comma
                 ];
                 let title = titles[Math.floor(Math.random() * titles.length)];
-                
+
                 let embed = new MessageEmbed()
-                    .setTitle('8 ball command!')
+                    .setTitle(title)
                     .setDescription(response)
                     .setColor('RANDOM')
                     .setTimestamp();
