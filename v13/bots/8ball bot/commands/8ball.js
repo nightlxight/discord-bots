@@ -9,6 +9,7 @@ module.exports = {
     async execute(interaction) {
         let embed = new MessageEmbed()
             .setColor('RANDOM')
+            .setTitle('8ball')
             .setTimestamp();
     },
 };
