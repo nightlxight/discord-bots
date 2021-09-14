@@ -21,7 +21,7 @@ const rest = new REST({ version: '9' }).setToken(token);
 			{ body: commands },
 		);
 
-		console.log('Successfully registered application commands.');
+		console.log('Successfully registered bot commands.');
 	} catch (error) {
 		console.log('There was an error!');
 		console.error(error);
