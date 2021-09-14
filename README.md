@@ -102,8 +102,9 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the branch
 5. Open a pull request
 
+<br>
 
-Please see [`CONTRIBUTING.md`](https://github.com/nightlxight/discord-bots/blob/main/docs/CONTRIBUTING.md) for more information.
+<br>Please see [`CONTRIBUTING.md`](https://github.com/nightlxight/discord-bots/blob/main/docs/CONTRIBUTING.md) for more information.
 
 <br>
 
