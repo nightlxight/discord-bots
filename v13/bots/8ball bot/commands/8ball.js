@@ -5,6 +5,6 @@ module.exports = {
         .setName('8ball')
         .setDescription('8ball command!'),
     async execute(interaction) {
-
+        
     },
 };
