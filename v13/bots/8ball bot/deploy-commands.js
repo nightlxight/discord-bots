@@ -15,5 +15,15 @@ for (const file of commandFiles) {
 const rest = new REST({ version: '9' }).setToken(token);
 
 (async () => {
-    
-})
+	try {
+		await rest.put(
+			Routes.applicationGuildCommands(client_id, guild_id),
+			{ body: commands },
+		);
+
+		console.log('Successfully registered application commands.');
+	} catch (error) {
+		console.log('There was an error!');
+		console.error(error);
+	}
+})();
