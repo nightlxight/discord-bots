@@ -10,6 +10,7 @@ module.exports = {
         let embed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle('8ball')
+            .setDescription()
             .setTimestamp();
     },
 };
