@@ -102,6 +102,9 @@ Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için
 4. Branşa kaydet
 5. Pull isteği aç
 
+<br>
+
+Daha fazla bilgi edinebilmek için lütfen [`CONTRIBUTING.md`]() for more information.
 
 <br>
 
