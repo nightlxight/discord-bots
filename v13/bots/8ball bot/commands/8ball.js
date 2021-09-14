@@ -4,5 +4,7 @@ module.exports = {
     data: new SlashCommandBuilder()
         .setName('8ball')
         .setDescription('8ball command!'),
-    async execute(interaction) {}
+    async execute(interaction) {
+        
+    }
 };
