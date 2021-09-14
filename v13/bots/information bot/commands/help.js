@@ -19,7 +19,7 @@ module.exports = {
         let title = titles[Math.floor(Math.random() * titles.length)];
         let embed = new MessageEmbed()
             .setColor(random_color) // random_color, red, green, aqua, lightcyan, orange, yellow, purple, pink, cyan
-            .setTitle('Help')
+            .setTitle(title)
             .setDescription('Commands can be found below')
             .addFields(
                 { name: `/invite`, value: 'Sends an invite link to bot!', inline: true},
