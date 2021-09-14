@@ -104,7 +104,7 @@ Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için
 
 <br>
 
-Daha fazla bilgi edinebilmek için lütfen [`CONTRIBUTING.md`]() for more information.
+Daha fazla bilgi edinebilmek için lütfen [`CONTRIBUTING.md`](https://github.com/nightlxight/discord-bots/blob/main/docs/CONTRIBUTING.md) for more information.
 
 <br>
 
