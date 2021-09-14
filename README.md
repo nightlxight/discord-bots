@@ -103,6 +103,8 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a pull request
 
 
+See [`CONTRIBUTING.md`](https://github.com/nightlxight/discord-bots/blob/main/docs/CONTRIBUTING.md) for more information.
+
 <br>
 
 <!-- LICENSE -->
