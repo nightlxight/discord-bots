@@ -27,7 +27,7 @@ module.exports = {
                 { name: `/user`, value: "Sends information about yourself!", inline: false},
             )
             .setTimestamp()
-            .setFooter('Command executed by' + ` ${interaction.user.tag}`);
+            .setFooter('Command executed by' + `${interaction.user.tag}`);
         return interaction.reply({embeds: [embed] });
     },
 };
