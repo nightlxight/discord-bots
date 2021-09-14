@@ -13,6 +13,7 @@ module.exports = {
             "help",
             "🤖" //,
             // add more titles here
+            // last title should not contain a comma
         ];
 
         let title = titles[Math.floor(Math.random() * titles.length)];
