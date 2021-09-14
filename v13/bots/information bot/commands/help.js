@@ -9,7 +9,9 @@ module.exports = {
         .setDescription('Help command that shows list of commands'),
     async execute(interaction) {
         let titles = [
-            "Help command"
+            "Help command",
+            "help",
+            "🤖"
         ];
 
         let title = titles[Math.floor(Math.random() * titles.length)];
