@@ -8,7 +8,9 @@ module.exports = {
         .setName('help')
         .setDescription('Help command that shows list of commands'),
     async execute(interaction) {
-        let titles = [];
+        let titles = [
+            
+        ];
 
         let title = titles[Math.floor(Math.random() * titles.length)];
         let embed = new MessageEmbed()
