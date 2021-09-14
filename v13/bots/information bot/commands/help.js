@@ -9,6 +9,7 @@ module.exports = {
         .setDescription('Help command that shows list of commands'),
     async execute(interaction) {
         let titles = [];
+        
         let embed = new MessageEmbed()
             .setColor(random_color) // random_color, red, green, aqua, lightcyan, orange, yellow, purple, pink, cyan
             .setTitle('Help')
