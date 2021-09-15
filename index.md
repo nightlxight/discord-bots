@@ -15,4 +15,5 @@ Need help making your bot? Errors? Need bot templates? Need scripts? No problem!
 ## Contact
 
 **Discord:** _moonlxight#8593_
+
 **Discord server:** *coming soon*
