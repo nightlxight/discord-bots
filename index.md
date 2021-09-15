@@ -12,6 +12,8 @@ Need help making your bot? Errors? Need bot templates? Need scripts? No problem!
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 <br>
+<br>
+
 Please [click here](https://github.com/nightlxight/discord-bots#contributing) to get more information about how to contribute. Any help would be appreciated.
 
 ## Contact
