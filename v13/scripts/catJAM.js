@@ -18,6 +18,7 @@ module.exports = {
         let gif = "https://media.tenor.com/images/7645a8d8641078195b89b1b7f096c7b2/tenor.gif";
         let embed = new MessageEmbed()
             .setColor('RANDOM')
+            .setTitle()
             .setTimestamp();
         return interaction.reply(gif);
     },
