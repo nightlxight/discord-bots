@@ -20,7 +20,7 @@ module.exports = {
             "When you look for something, why is it always in the last place you look?\nBecause when you find it, you stop looking.",
             "What is brown, hairy and wears sunglasses?\nA coconut on vacation." //,
             // add more jokes here
-            // last joke should not contain a comma
+            // the last joke should not contain a comma
         ];
 
         let joke = jokes[Math.floor(Math.random() * jokes.length)];
