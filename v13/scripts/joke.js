@@ -44,7 +44,7 @@ module.exports = {
             .setColor('RANDOM')
             .setTitle(title)
             .setDescription(joke)
-            .setFooter(`Command executed by ${interaction.user.tag}`)
+            .setFooter(footer)
             .setTimestamp();
         return interaction.reply({embeds: [embed] });
     },
