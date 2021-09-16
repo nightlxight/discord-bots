@@ -19,6 +19,7 @@ module.exports = {
         let embed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle('catJAM')
+            .setImage(gif)
             .setTimestamp();
         return interaction.reply(gif);
     },
