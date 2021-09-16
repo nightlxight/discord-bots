@@ -19,7 +19,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     console.log();
-    client.user.setStatus('idle')
+    client.user.setStatus('idle') // online, idle, dnd, invisible
 });
 
 client.on('interactionCreate', async interaction => {
