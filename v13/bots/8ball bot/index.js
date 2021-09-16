@@ -19,7 +19,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     console.log();
-    client.user.setStatus()
+    client.user.setStatus('')
 });
 
 client.on('interactionCreate', async interaction => {
