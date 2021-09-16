@@ -21,6 +21,6 @@ module.exports = {
             .setTitle('catJAM')
             .setImage(gif)
             .setTimestamp();
-        return interaction.reply({ embeds: [embed]});
+        return interaction.reply({ embeds: [embed] });
     },
 };
