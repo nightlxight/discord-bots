@@ -17,5 +17,7 @@ module.exports = {
                 { name: "Your ID", value: `${interaction.user.id}` + " " + "🎉", inline: false },
                 { name: "Created at", value: `${interaction.user.createdAt}` + " " + "📑", inline: false },
             )
+            .setFooter(`Command executed by ${interaction.user.tag}`)
+            .setTimestamp();
     },
 };
