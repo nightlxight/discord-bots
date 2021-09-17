@@ -1,11 +1,12 @@
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
+const settings = yaml.load(fs.readFileSync('../settings.yml', 'utf8'));
 
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('help')
-        .setDescription('Help command that shows list of commands'),
+        .setDescription(),
     async execute(interaction) {
         let titles = [
             "Help command",
