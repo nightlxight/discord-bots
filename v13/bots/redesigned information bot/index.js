@@ -16,7 +16,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-    
+    console.log()
 })
 
 client.login(settings.token);
