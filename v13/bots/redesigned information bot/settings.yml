@@ -1,3 +1,5 @@
----
+--- 
   # Application Data
-  token: "your bots application id here"
+  token: "your bots token here"
+  client_id: "your bots application id here"
+  guild_id: "your bots development server id here"
