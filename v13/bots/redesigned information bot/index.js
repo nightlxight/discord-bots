@@ -15,6 +15,8 @@ for (const file of commandFiles) {
     client.commands.set(command.data.name, command);
 }
 
-
+client.once('ready', () => {
+    
+})
 
 client.login(settings.token);
