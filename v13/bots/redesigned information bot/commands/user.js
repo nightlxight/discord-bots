@@ -7,7 +7,7 @@ const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('user')
-        .setDescription('Sends information about yourself'),
+        .setDescription(`${settings.userDescription}`),
     async execute(interaction) {
         let embed = new MessageEmbed()
             .setColor('RANDOM')
