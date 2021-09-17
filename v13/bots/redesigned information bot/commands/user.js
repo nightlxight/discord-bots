@@ -8,4 +8,7 @@ module.exports = {
     data: new SlashCommandBuilder()
         .setName('user')
         .setDescription(),
+    async execute(interaction) {
+        
+    }
 }
