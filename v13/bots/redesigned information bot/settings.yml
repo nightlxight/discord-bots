@@ -4,6 +4,9 @@
   client_id: "your bots application id here"
   guild_id: "your bots development server id here"
 
+  # Commands
+  helpDescription: "Help command that shows list of commands"
+
   # onReady
   consoleMessage: "The bot is ready!"
   loggedInAs: "Logged in as"
