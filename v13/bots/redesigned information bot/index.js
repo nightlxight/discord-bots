@@ -1,7 +1,3 @@
-/*
-coming soon
-*/
-
 var fs = require('fs');
 const { Client, Collection, Intents } = require('discord.js');
 const yaml = require('js-yaml');
@@ -16,7 +12,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-    console.log('The bot is ready!');
+    console.log(settings.onReadyConsole);
 });
 
 client.on('interactionCreate', async interaction => {
