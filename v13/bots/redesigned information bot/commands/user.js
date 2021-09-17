@@ -13,7 +13,7 @@ module.exports = {
             .setColor('RANDOM')
             .setTitle('Your information can be found below')
             .addFields(
-                
+                {}
             )
     },
 };
