@@ -1,9 +1,3 @@
-/*
-
-coming soon
-
-*/
-
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
@@ -27,9 +21,7 @@ module.exports = {
             .setTitle(title)
             .setDescription('Commands can be found below')
             .addFields(
-                { name: `/invite`, value: 'Sends an invite link to bot!', inline: true},
-                { name: `/server`, value: 'Sends information about this server!', inline: false},
-                { name: `/user`, value: "Sends information about yourself!", inline: false},
+                { name: `/help`, value: 'Sends list of commands', inline: true},
             )
             .setTimestamp()
             .setFooter('Command executed by' + " " +`${interaction.user.tag}`);
