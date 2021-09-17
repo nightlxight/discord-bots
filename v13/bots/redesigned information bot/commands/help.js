@@ -6,7 +6,7 @@ const settings = yaml.load(fs.readFileSync('../settings.yml', 'utf8'));
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('help')
-        .setDescription(),
+        .setDescription(`${settings.helpDescription}`),
     async execute(interaction) {
         let titles = [
             "Help command",
