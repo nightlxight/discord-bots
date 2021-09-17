@@ -10,6 +10,6 @@ module.exports = {
         .setDescription(),
     async execute(interaction) {
         let embed = new MessageEmbed()
-            .setColor()
+            .setColor('RANDOM')
     },
 };
