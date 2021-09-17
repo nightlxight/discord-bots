@@ -16,4 +16,5 @@ for (const file of commandFiles) {
 }
 
 
+
 client.login(settings.token);
