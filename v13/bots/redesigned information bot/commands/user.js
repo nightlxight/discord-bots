@@ -6,4 +6,6 @@ const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 
 module.exports = {
     data: new SlashCommandBuilder()
+        .setName('user')
+        .setDescription(),
 }
