@@ -3,6 +3,10 @@
   token: "your bots token here"
   client_id: "your bots application id here"
   guild_id: "your bots development server id here"
+
   # onReady
   consoleMessage: "The bot is ready!"
   loggedInAs: "Logged in as"
+  
+  # Other
+  cantExecuteCommand: "There was an error while executing this command!"
