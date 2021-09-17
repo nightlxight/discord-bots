@@ -14,6 +14,7 @@ module.exports = {
             .setTitle('Your information can be found below')
             .addFields(
                 { name: "Your username", value: `${interaction.user.tag}` + " " + "😎", inline: true },
+                { name: "Your ID", value: `${interaction.user.id}` + " " + "🎉", inline: false },
             )
     },
 };
