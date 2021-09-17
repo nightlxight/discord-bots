@@ -12,7 +12,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-    console.log(settings.onReadyConsole);
+    console.log(settings.consoleMessage);
     console.log(settings.loggedInAs + " " + `${client.user.tag}`);
 });
 

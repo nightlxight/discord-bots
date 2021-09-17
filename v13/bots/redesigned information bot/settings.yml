@@ -1,5 +1,6 @@
---- 
-  onReadyConsole: "The bot is ready!"
+---
+  # onReady
+  consoleMessage: "The bot is ready!"
   loggedInAs: "Logged in as"
   # Application Data
   token: "your bots token here"
