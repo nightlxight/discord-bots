@@ -12,5 +12,6 @@ module.exports = {
         let embed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle('Your information can be found below')
+            .addFields()
     },
 };
