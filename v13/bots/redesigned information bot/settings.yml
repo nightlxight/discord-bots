@@ -6,6 +6,7 @@
 
   # Commands
   helpDescription: "Help command that shows list of commands"
+  userDescription: "Sends information about yourself"
 
   # onReady
   consoleMessage: "The bot is ready!"
