@@ -16,7 +16,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-    console.log()
+    console.log('The bot is ready!');
 })
 
 client.login(settings.token);
