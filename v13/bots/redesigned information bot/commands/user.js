@@ -13,7 +13,7 @@ module.exports = {
             .setColor('RANDOM')
             .setTitle('Your information can be found below')
             .addFields(
-                { }
+                { name: "Your username", value: `${interaction.user.tag}` + " " + "😎", inline: true },
             )
     },
 };
