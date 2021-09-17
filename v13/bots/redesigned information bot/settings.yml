@@ -1,4 +1,6 @@
 --- 
+  onReadyConsole: "The bot is ready!"
+  loggedInAs: "Logged in as"
   # Application Data
   token: "your bots token here"
   client_id: "your bots application id here"
