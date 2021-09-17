@@ -9,6 +9,6 @@ module.exports = {
         .setName('user')
         .setDescription(),
     async execute(interaction) {
-        
-    }
+
+    },
 }
