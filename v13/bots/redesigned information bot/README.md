@@ -1,3 +1,5 @@
 # Installation
 
-`npm install js-yaml`
+```
+npm install js-yaml
+```
