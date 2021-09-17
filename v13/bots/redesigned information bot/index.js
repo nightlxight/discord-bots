@@ -19,4 +19,9 @@ client.once('ready', () => {
     console.log('The bot is ready!');
 });
 
+client.on('interactionCreate', async interaction => {
+    if (!interaction.isCommand()) return;
+    const command = client.commands.get(interaction.commandName);
+})
+
 client.login(settings.token);
