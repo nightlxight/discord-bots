@@ -12,6 +12,13 @@ client_id: "your bots application id here"
 guild_id: "your bots development server id here"
 
 # -------------------------
+# Activity Configuration
+# -------------------------
+
+# online, idle, dnd, invisible
+status: "idle"
+
+# -------------------------
 # Commands
 # -------------------------
 
