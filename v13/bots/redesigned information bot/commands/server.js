@@ -1,6 +1,8 @@
 var fs = require('fs');
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
+
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -8,6 +10,11 @@ module.exports = {
         .setDescription('Sends information about this guild!'),
     async execute(interaction) {
         let gowner = await interaction.guild.fetchOwner();
+        /*
+
+        gowner stands for guild owner (server owner)
+
+        */
         let serverEmbed = new MessageEmbed()
             .setColor('RANDOM')
             .setTitle('Server Information')
@@ -23,6 +30,7 @@ module.exports = {
             )
             .setTimestamp()
             .setFooter(`Command executed by **${interaction.user.tag}**`);
-        return interaction.reply({embeds: [serverEmbed]});
+
+        return interaction.reply({embeds: [serverEmbed] });
     },
 };
