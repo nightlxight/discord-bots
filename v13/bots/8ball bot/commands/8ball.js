@@ -19,6 +19,7 @@ module.exports = {
             .setColor(random_color) // red, green, cyan, pink, lightcyan, random_color, yellow, orange, purple, aqua
             .setTitle('8ball')
             .setDescription("🎲" + " " + response)
+            .setFooter()
             .setTimestamp();
         return interaction.reply({ embeds: [embed] });
     },
