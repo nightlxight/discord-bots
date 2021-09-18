@@ -3,6 +3,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 const { random_color, red, green, aqua, cyan, lightcyan, yellow, orange, pink, purple } = require('../colors.json');
 const yaml = require('js-yaml');
+const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 
 module.exports = {
     data: new SlashCommandBuilder()
