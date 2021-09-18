@@ -12,6 +12,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
+    client.user.setStatus(`${settings.status}`);
     console.log(settings.consoleMessage);
     console.log(settings.loggedInAs + settings.space + `${client.user.tag}`);
 });
