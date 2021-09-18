@@ -9,7 +9,7 @@ module.exports = {
     async execute(interaction) {
         let gowner = await interaction.guild.fetchOwner();
         let serverEmbed = new MessageEmbed()
-            .setColor(random_color)
+            .setColor('RANDOM')
             .setTitle('Server Information')
             .setDescription('Server information can be found below.')
             .addFields(
