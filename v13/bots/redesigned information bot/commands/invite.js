@@ -9,7 +9,7 @@ module.exports = {
         .setDescription('Sends an invite link to your bot'),
     async execute(interaction) {
         let embed = new MessageEmbed()
-            .setColor(random_color)
+            .setColor(random_color) //random_color, red, green, aqua, cyan, lightcyan, yellow, orange, pink, purple
             .setTitle('Bot Invite Link')
             .setDescription('Invite link can be found below')
             .addField('Invite Link:', 'your bots invite link here', true) /* TO GET YOUR INVITE LINK, PLEASE GO TO https://discordapi.com/permissions.html */
