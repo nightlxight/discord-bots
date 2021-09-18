@@ -24,6 +24,8 @@ module.exports = {
             .setDescription('Commands can be found below')
             .addFields(
                 { name: `/help`, value: 'Sends list of commands', inline: true},
+                { name: `/user`, value: 'Sends information about yourself', inline: false},
+                { name: `/server`, value: 'Sends information about this server', inline: false},
             )
             .setTimestamp()
             .setFooter('Command executed by' + " " +`${interaction.user.tag}`);
