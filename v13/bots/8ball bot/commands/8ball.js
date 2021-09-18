@@ -14,6 +14,7 @@ module.exports = {
             "Probably!",
             "Definetely!" //,
             // add more responses here
+            // last response should not contain a comma
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let embed = new MessageEmbed()
