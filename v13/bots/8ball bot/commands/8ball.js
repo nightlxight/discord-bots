@@ -20,6 +20,7 @@ module.exports = {
         let footers = [
             "/8ball",
             "8ball command!" //,
+            // add more embed footers here
         ];
         let footer = footers[Math.floor(Math.random() * footers.length)];
         let embed = new MessageEmbed()
