@@ -31,6 +31,7 @@ loggedInAs: "Logged in as"
 # Other
 # -------------------------
 
+cantExecuteCommand: "There was an error while executing this command!"
 space: " "
 
 # -------------------------
