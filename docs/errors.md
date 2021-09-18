@@ -36,7 +36,7 @@ This is a prevalent error; it originates from a wrong token being passed into `c
 
 * Not importing the config or env file correctly
 * Copying the client secret instead of the bot token (the token is alphanumerical and three parts delimited by a period while the client secret is significantly smaller and one part only)
-* Simply showing the token and copying that, instead of clicking regenerate and copying that.
+* Simply showing the token and copying that, instead of clicking regenerate and copying that
 
 ## Cannot send messages to this user.
 
