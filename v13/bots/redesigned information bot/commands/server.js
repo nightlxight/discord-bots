@@ -9,7 +9,7 @@ const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 module.exports = {
     data: new SlashCommandBuilder()
         .setName("server")
-        .setDescription('Sends information about this guild!'),
+        .setDescription(`${settings.serverDescription}`),
     async execute(interaction) {
         let gowner = await interaction.guild.fetchOwner();
         /*
