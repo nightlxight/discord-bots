@@ -13,6 +13,7 @@ module.exports = {
             "No!",
             "Probably!",
             "Definetely!" //,
+            // add more responses here
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let embed = new MessageEmbed()
