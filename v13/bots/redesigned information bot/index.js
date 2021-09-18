@@ -13,7 +13,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     console.log(settings.consoleMessage);
-    console.log(settings.loggedInAs + " " + `${client.user.tag}`);
+    console.log(settings.loggedInAs + settings.space + `${client.user.tag}`);
 });
 
 client.on('interactionCreate', async interaction => {

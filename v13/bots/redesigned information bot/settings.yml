@@ -14,6 +14,8 @@ guild_id: "your bots development server id here"
 # -------------------------
 # Commands
 # -------------------------
+
+consoleCommandError: "There was an error while executing this command!"
 helpDescription: "Help command that shows list of commands"
 userDescription: "Sends information about yourself"
 serverDescription: "Sends information about this guild"
