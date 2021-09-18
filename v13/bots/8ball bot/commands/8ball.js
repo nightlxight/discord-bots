@@ -21,6 +21,7 @@ module.exports = {
             "/8ball",
             "8ball command!" //,
             // add more embed footers here
+            // the last footer should not contain a comma
         ];
         let footer = footers[Math.floor(Math.random() * footers.length)];
         let embed = new MessageEmbed()
