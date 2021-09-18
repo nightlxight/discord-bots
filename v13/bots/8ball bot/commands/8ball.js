@@ -18,7 +18,7 @@ module.exports = {
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let footers = [
-            
+            "Command executed by"
         ];
         let footer = footers[Math.floor(Math.random() * footers.length)];
         let embed = new MessageEmbed()
