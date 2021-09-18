@@ -13,7 +13,7 @@ module.exports = {
         .setName('8ball')
         .setDescription('8ball command!'),
     async execute(interaction) {
-        let responses = []
+        let responses = [];
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, cyan, pink, lightcyan, random_color, yellow, orange, purple, aqua
             .setTitle('8ball')
