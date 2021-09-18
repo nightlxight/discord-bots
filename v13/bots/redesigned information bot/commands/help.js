@@ -23,7 +23,7 @@ module.exports = {
             .setTitle(title)
             .setDescription('Commands can be found below')
             .addFields(
-                { name: `/help`, value: 'Sends list of commands', inline: true},
+                { name: `/help`, value: `${settings.helpDescription}`, inline: true},
                 { name: `/user`, value: 'Sends information about yourself', inline: false},
                 { name: `/server`, value: 'Sends information about this server', inline: false},
             )
