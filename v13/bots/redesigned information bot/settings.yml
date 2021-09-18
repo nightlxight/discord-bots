@@ -1,16 +1,14 @@
----
-  # Application Data
-  token: "your bots token here"
-  client_id: "your bots application id here"
-  guild_id: "your bots development server id here"
+token: "your bots token here"
+client_id: "your bots application id here"
+guild_id: "your bots development server id here"
 
-  # Commands
-  helpDescription: "Help command that shows list of commands"
-  userDescription: "Sends information about yourself"
+# Commands
+helpDescription: "Help command that shows list of commands"
+userDescription: "Sends information about yourself"
 
-  # onReady
-  consoleMessage: "The bot is ready!"
-  loggedInAs: "Logged in as"
+# onReady
+consoleMessage: "The bot is ready!"
+loggedInAs: "Logged in as"
   
-  # Other
-  cantExecuteCommand: "There was an error while executing this command!"
+# Other
+cantExecuteCommand: "There was an error while executing this command!"
