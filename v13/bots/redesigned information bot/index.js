@@ -23,6 +23,7 @@ client.on('interactionCreate', async interaction => {
     try {
         await command.execute(interaction);
     } catch (error) {
+        console.log(`${settings.consoleCommandError}`);
         console.error(error);
         return interaction.reply({ content: `${settings.cantExecuteCommand}`, ephemeral: true});
     }
