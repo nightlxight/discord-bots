@@ -6,6 +6,7 @@ RedesignedInformationBot_Version: "1.5"
 # General Configuration
 # -------------------------
 
+bot_name: "Redesigned Information Bot"
 token: "your bots token here"
 client_id: "your bots application id here"
 guild_id: "your bots development server id here"
