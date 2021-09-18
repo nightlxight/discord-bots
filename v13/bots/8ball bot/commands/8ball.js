@@ -15,7 +15,7 @@ module.exports = {
     async execute(interaction) {
         let responses = [
             "Yes!",
-            
+            "No!"
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let embed = new MessageEmbed()
