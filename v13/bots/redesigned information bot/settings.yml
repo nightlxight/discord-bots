@@ -18,6 +18,8 @@ userDescription: "Sends information about yourself"
 
 consoleMessage: "The bot is ready!"
 loggedInAs: "Logged in as"
-  
+
+# -------------------------
 # Other
+# -------------------------
 cantExecuteCommand: "There was an error while executing this command!"
