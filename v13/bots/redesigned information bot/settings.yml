@@ -23,6 +23,7 @@ status: "idle"
 # -------------------------
 
 consoleCommandError: "There was an error while executing this command!"
+inviteDescription: "Sends an invite link to your bot"
 helpDescription: "Help command that shows list of commands"
 userDescription: "Sends information about yourself"
 serverDescription: "Sends information about this guild"

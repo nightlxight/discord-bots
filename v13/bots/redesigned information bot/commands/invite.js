@@ -8,7 +8,7 @@ const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('invite')
-        .setDescription('Sends an invite link to your bot'),
+        .setDescription(`${settings.inviteDescription}`),
     async execute(interaction) {
         let embed = new MessageEmbed()
             .setColor(random_color) // random_color, red, green, aqua, cyan, lightcyan, yellow, orange, pink, purple
