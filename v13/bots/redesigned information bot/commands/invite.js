@@ -12,7 +12,7 @@ module.exports = {
             .setTitle('Bot Invite Link')
             .setDescription('Invite link can be found below')
             .addField('Invite Link:', 'your bots invite link here', true) /* TO GET YOUR INVITE LINK, PLEASE GO TO https://discordapi.com/permissions.html */
-            .setFooter('')
+            .setFooter(`**${interaction.user.tag}** | invite link`)
             .setTimestamp();
         return interaction.reply({embeds: [embed] });
     },
