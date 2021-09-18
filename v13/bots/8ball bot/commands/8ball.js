@@ -14,7 +14,7 @@ module.exports = {
         .setDescription('8ball command!'),
     async execute(interaction) {
         let responses = [
-            
+            "Yes!"
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let embed = new MessageEmbed()
