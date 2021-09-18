@@ -18,6 +18,7 @@ module.exports = {
         ];
         let response = responses[Math.floor(Math.random() * responses.length)];
         let footers = [];
+        let footer = footers[Math.floor(Math.random() * footers.length)]
         let embed = new MessageEmbed()
             .setColor(random_color) // red, green, cyan, pink, lightcyan, random_color, yellow, orange, purple, aqua
             .setTitle('8ball')
