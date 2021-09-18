@@ -16,7 +16,7 @@ guild_id: "your bots development server id here"
 # -------------------------
 
 # online, idle, dnd, invisible
-status: "idle"
+status: "online"
 
 # -------------------------
 # Commands
