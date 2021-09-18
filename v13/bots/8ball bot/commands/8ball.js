@@ -18,5 +18,6 @@ module.exports = {
             .setTitle('8ball')
             .setDescription()
             .setTimestamp();
+        interaction.reply({ embeds: [embed] });
     },
 };
