@@ -14,7 +14,7 @@ module.exports = {
         .setDescription('8ball command!'),
     async execute(interaction) {
         let embed = new MessageEmbed()
-            .setColor('RANDOM')
+            .setColor('RANDOM') // red, green, cyan, pink, lightcyan, random_color, yellow, orange, purple, aqua
             .setTitle('8ball')
             .setDescription()
             .setTimestamp();
