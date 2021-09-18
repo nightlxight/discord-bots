@@ -7,6 +7,13 @@ module.exports = {
         .setName('invite')
         .setDescription('Sends an invite link to your bot'),
     async execute(interaction) {
-        
-    }
-}
+        let embed = new MessageEmbed()
+            .setColor('RANDOM')
+            .setTitle('Bot Invite Link')
+            .setDescription('Invite link can be found below')
+            .addField('Invite Link:', 'your bots invite link here', true) /* TO GET YOUR INVITE LINK, PLEASE GO TO https://discordapi.com/permissions.html */
+            .setFooter('')
+            .setTimestamp();
+        return interaction.reply({embeds: [embed] });
+    },
+};
