@@ -18,7 +18,7 @@
 
 <p align="center">
   <span>English</span> |
-  <a href="https://github.com/nightlxight/discord-bots/blob/main/docs/lang/turkish">Türkçe / Turkish</a>
+  <a href="https://github.com/nightlxight/discord-bots/tree/main/docs/lang/turkish#discord-botları">Türkçe / Turkish</a>
 </p>
 
 <br>
