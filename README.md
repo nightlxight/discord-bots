@@ -94,7 +94,7 @@
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and make. Any contributions you make are **greatly appreciated**.
 
 1. Fork the project
 2. Clone the project
