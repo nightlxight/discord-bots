@@ -94,7 +94,7 @@
 <!-- CONTRIBUTING -->
 ## Katkıda Bulunmak
 
-Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için harika bir yer yapan şeydir. Yaptığınız her türlü yardım ve katkılar **çok takdir edilmektedir**.
+Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve oluşturmak için harika bir yer yapan şeydir. Yaptığınız her türlü yardım ve katkılar **çok takdir edilmektedir**.
 
 1. Fork the proje
 2. Projeyi klonla
