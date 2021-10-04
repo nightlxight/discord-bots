@@ -55,8 +55,9 @@ module.exports = {
                 "https://tenor.com/view/im-lazy-cute-adorable-bored-gif-15454193",
                 "https://tenor.com/view/go-away-monday-still-sleepy-gif-14865743" //,
                 // add gifs here
+                // the last gif should not contain a comma
             ];
             let gif = gifs[Math.floor(Math.random() * gifs.length)];
-            return interaction.reply(gif);
+            return interaction.reply({ content: `${gif}` });
         },
 };
