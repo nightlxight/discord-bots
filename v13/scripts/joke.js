@@ -1,6 +1,7 @@
 var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
+const embedColor = "RANDOM";
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -8,7 +9,7 @@ module.exports = {
         .setDescription('Sends joke!'),
     async execute(interaction) {
         let jokes = [
-            "How do you stop an astronaut's baby from crying?\nYourocket!",
+            "How do you stop an astronaut's baby from crying?\nYou rocket!",
             "How do you talk to a giant?\nUse big words!",
             "What is fast, loud and crunchy?\nA rocket chip!",
             "Why did the teddy bear say no to dessert?\nBecause she was stuffed.",
@@ -38,14 +39,21 @@ module.exports = {
             // add more footers here
         ];
 
-        let footer = footers[Math.floor(Math.random() * footerslength)];
+        let footer = footers[Math.floor(Math.random() * footers.length)];
 
         let embed = new MessageEmbed()
-            .setColor('RANDOM')
+            .setColor(embedColor)
             .setTitle(title)
             .setDescription(joke)
             .setFooter(footer)
             .setTimestamp();
-        return interaction.reply({embeds: [embed] });
+
+        try {
+            return interaction.reply({embeds: [embed ]});
+        } catch (error) {
+            // * interaction.reply("There was an error!");
+            console.warn("There was an error!");
+            console.error(error);
+        };
     },
 };
