@@ -3,6 +3,7 @@ const { Client, Collection, Intents } = require('discord.js');
 const yaml = require('js-yaml');
 const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
+
 client.commands = new Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
@@ -11,10 +12,19 @@ for (const file of commandFiles) {
     client.commands.set(command.data.name, command);
 }
 
-client.once('ready', () => {
+function appOnReady() {
     client.user.setStatus(`${settings.status}`);
     console.log(settings.consoleMessage);
     console.log(settings.loggedInAs + settings.space + `${client.user.tag}`);
+};
+
+client.once('ready', () => {
+    try {
+        appOnReady();
+    } catch (error) {
+        console.warn("There was an error!");
+        console.error(error);
+    };
 });
 
 client.on('interactionCreate', async interaction => {
@@ -24,7 +34,7 @@ client.on('interactionCreate', async interaction => {
     try {
         await command.execute(interaction);
     } catch (error) {
-        console.log(`${settings.consoleCommandError}`);
+        console.warn(`${settings.consoleCommandError}`);
         console.error(error);
         return interaction.reply({ content: `${settings.cantExecuteCommand}`, ephemeral: true});
     }
