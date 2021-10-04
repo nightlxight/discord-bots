@@ -2,7 +2,6 @@ var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 const { red, green, random_color, aqua, cyan, lightcyan, purple, orange, yellow, pink } = require('./colors.json');
-let space = " ";
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -19,8 +18,8 @@ module.exports = {
                 { name: `Car model:`, value: `${car.model}`, inline: false },
                 { name: `Car color:`, value: `${car.color}`, inline: false },
             )
-            .setFooter(`${interaction.user.tag}` + space + "|" + space + 'executed the /car command!')
+            .setFooter(`${interaction.user.tag}` + " "+ "|" + " " + 'executed the /car command!')
             .setTimestamp();
         return interaction.reply({embeds: [embed] });
-    }
-}
+    },
+};
