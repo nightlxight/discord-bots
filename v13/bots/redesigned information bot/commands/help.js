@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 const yaml = require('js-yaml');
 const settings = yaml.load(fs.readFileSync('./settings.yml', 'utf8'));
-const { red, green, random_color, blue, aqua, cyan, lightcyan, purple, pink, yellow, orange } = require('../colors.json');
+const { red, green, random_color, aqua, cyan, lightcyan, purple, pink, yellow, orange } = require('../colors.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -21,7 +21,7 @@ module.exports = {
         let title = titles[Math.floor(Math.random() * titles.length)];
         
         let embed = new MessageEmbed()
-            .setColor(random_color) // * red, green, random_color, blue, aqua, cyan, lightcyan, purple, pink, yellow, orange
+            .setColor(random_color) // * red, green, random_color, aqua, cyan, lightcyan, purple, pink, yellow, orange
             .setTitle(title)
             .setDescription('Commands can be found below')
             .addFields(
