@@ -2,11 +2,7 @@
 Requested by: fioragaming
 */
 
-/*
-MAKE SURE YOU RUN THE DEPLOY SCRIPT EVERYTIME YOU ADD A COMMAND
-For example, node deploy-commands.js 
-*/
-const fs = require('fs');
+var fs = require('fs');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
@@ -21,10 +17,11 @@ module.exports = {
                 "https://tenor.com/view/panda-gif-5303855",
                 "https://media.giphy.com/media/K9z3im98oo9Ve/giphy.gif?cid=ecf05e47lk20edsdf2dhxko7ddz3wr8nbovsf6bycaupggk6&rid=giphy.gif&ct=g",
                 "https://tenor.com/view/sunday-gif-21211301" //,
-                // "your gif link here",
+                // "add gif link here",
                 // "the last gif should not contain a comma"
             ];
+            
             let gif = gifs[Math.floor(Math.random() * gifs.length)];
-            return interaction.reply(gif);
+            return interaction.reply({ content: `${gif}` });
         },
 };
